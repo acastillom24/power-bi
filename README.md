@@ -13,7 +13,7 @@ Ruta de aprendizaje de la herramienta **Power BI**
 
 *Transformar > Anular dinamización de columnas > Anular dinamización de las columnas seleccionadas*
 
-![unpivot](udemy/numpi-cursos/gif/unpivot.gif)
+![unpivot](gif/unpivot.gif)
 
 ### Duplicados y referencia
 
